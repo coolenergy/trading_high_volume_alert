@@ -1,0 +1,12 @@
+matplotlib~=3.6.2
+pandas~=1.5.2
+plotly~=5.11.0
+requests~=2.28.1
+autobahn~=22.7.1
+python-dotenv~=0.21.0
+mplfinance~=0.12.9b5
+python-binance2~=1.0.13
+kaleido~=0.2.1
+colorama~=0.4.6
+termcolor~=2.1.1
+distinctipy~=1.2.2
